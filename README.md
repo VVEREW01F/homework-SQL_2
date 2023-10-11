@@ -25,23 +25,18 @@
 ### Задание 1
 
 
-![Скриншот-1](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr1.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr2.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr3.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr4.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-Redis/blob/main/img/scr1.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-Redis/blob/main/img/scr2.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-Redis/blob/main/img/scr3.PNG)
 
-[Файл pkt](https://github.com/VVEREW01F/homework-recovery/blob/main/file/hsrp_advanced_1.pkt)
 
 
 ### Задание 2
 
-![Скриншот-1](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr5.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr6.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr7.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr8.PNG)
-![Скриншот-2](https://github.com/VVEREW01F/homework-recovery/blob/main/img/scr9.PNG)
+### Задание 3
+
+### Задание 4
 
 
-[keepalived-master](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-master.conf)
-[keepalived-bacup](https://github.com/VVEREW01F/homework-recovery/blob/main/file/keepalived-bacup.conf)
-[check_nginx](https://github.com/VVEREW01F/homework-recovery/blob/main/file/check_nginx.sh)
+
+
