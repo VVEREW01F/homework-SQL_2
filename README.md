@@ -23,13 +23,32 @@
 ---
 
 ### Задание 1
-![Скриншот-1](https://github.com/VVEREW01F/homework-ELK/blob/main/img/scr1.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-DDL/blob/main/img/scr1.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-DDL/blob/main/img/scr2.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-DDL/blob/main/img/scr3.PNG)
+![Скриншот-1](https://github.com/VVEREW01F/homework-DDL/blob/main/img/scr4.PNG)
 ### Задание 2
-![Скриншот-1](https://github.com/VVEREW01F/homework-ELK/blob/main/img/scr2.PNG)
-### Задание 3
-![Скриншот-1](https://github.com/VVEREW01F/homework-ELK/blob/main/img/scr3.PNG)
-### Задание 4
-![Скриншот-1](https://github.com/VVEREW01F/homework-ELK/blob/main/img/scr4.PNG)
-![Скриншот-1](https://github.com/VVEREW01F/homework-ELK/blob/main/img/scr5.PNG)
++-------------------+------------------------+
+| Название таблицы | Название первичного ключа |
++-------------------+------------------------+
+| actor             | actor_id               |
+| address           | address_id             |
+| category          | category_id            |
+| city              | city_id                |
+| country           | country_id             |
+| customer          | customer_id            |
+| film              | film_id                |
+| film_actor        | actor_id, film_id      |
+| film_category     | film_id, category_id   |
+| inventory         | inventory_id           |
+| language          | language_id            |
+| payment           | payment_id             |
+| rental            | rental_id              |
+| staff             | staff_id               |
+| store             | store_id               |
++-------------------+------------------------+
+
+
+
 
 
